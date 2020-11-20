@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=指纹锁.SchDoc
+Record=SheetSymbol|SourceDocument=指纹锁.SchDoc|Designator=U_主控|SchDesignator=U_主控|FileName=主控.SchDoc|SymbolType=Normal|RawFileName=主控.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=指纹锁.SchDoc|Designator=U_控制|SchDesignator=U_控制|FileName=控制.SchDoc|SymbolType=Normal|RawFileName=控制.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

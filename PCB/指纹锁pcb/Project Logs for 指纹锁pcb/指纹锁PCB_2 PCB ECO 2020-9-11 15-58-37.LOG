@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VCC Pin=3.3V-1
+Removed Pin From Net: NetName=GND Pin=3.3V-2
+Removed Pin From Net: NetName=VCC Pin=3.3V-3
+Removed Pin From Net: NetName=GND Pin=3.3V-4
+Removed Pin From Net: NetName=VCC Pin=3.3V-5
+Removed Pin From Net: NetName=GND Pin=3.3V-6
+Removed Pin From Net: NetName=GND Pin=5V-2
+Removed Pin From Net: NetName=GND Pin=5V-4
+Removed Pin From Net: NetName=GND Pin=5V-6
+Removed Pin From Net: NetName=GND Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-6
+Removed Member From Class: ClassName=U_主控 Member=3.3V
+Removed Member From Class: ClassName=U_主控 Member=5V
+Change Component Footprint: Designator=U7 Old Footprint=SS12D00G3 New Footprint=SS-12D10
+Added Component: Designator=1(HDR2.54-LI-2x3P)
+Added Component: Designator=2(HDR2.54-LI-2x3P)
+Added Pin To Net: NetName=VCC Pin=1-1
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=VCC Pin=1-3
+Added Pin To Net: NetName=GND Pin=1-4
+Added Pin To Net: NetName=VCC Pin=1-5
+Added Pin To Net: NetName=GND Pin=1-6
+Added Pin To Net: NetName=5V Pin=2-1
+Added Pin To Net: NetName=GND Pin=2-2
+Added Pin To Net: NetName=5V Pin=2-3
+Added Pin To Net: NetName=GND Pin=2-4
+Added Pin To Net: NetName=5V Pin=2-5
+Added Pin To Net: NetName=GND Pin=2-6
+Added Pin To Net: NetName=5V Pin=JP1-10
+Added Pin To Net: NetName=5V Pin=JP2-10
+Added Member To Class: ClassName=U_主控 Member=Component 1 3.3V电源
+Added Member To Class: ClassName=U_主控 Member=Component 2 5V电源
+Added Room: Name=U_主控
+Added Room: Name=U_控制

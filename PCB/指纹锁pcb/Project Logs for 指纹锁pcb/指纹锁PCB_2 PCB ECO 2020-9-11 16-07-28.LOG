@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=3.3V NewDesignator=1
+Change Component Designator: OldDesignator=5V NewDesignator=2
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=5V Pin=USB1-2
+Added Pin To Net: NetName=5V Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-6
+Added Room: Name=U_Ö÷¿Ø
+Added Room: Name=U_¿ØÖÆ

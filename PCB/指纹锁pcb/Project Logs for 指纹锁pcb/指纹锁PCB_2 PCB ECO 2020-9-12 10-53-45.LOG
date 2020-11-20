@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=RXD Pin=U1-6
+Removed Pin From Net: NetName=TXD Pin=U1-7
+Removed Pin From Net: NetName=PB4 Pin=U1-12
+Removed Pin From Net: NetName=PB5 Pin=U1-13
+Removed Pin From Net: NetName=PB6 Pin=U1-14
+Removed Pin From Net: NetName=PB7 Pin=U1-15
+Removed Pin From Net: NetName=PB8 Pin=U1-16
+Removed Pin From Net: NetName=PB9 Pin=U1-17
+Removed Pin From Net: NetName=5V Pin=U1-18
+Removed Pin From Net: NetName=VCC Pin=U1-20
+Removed Pin From Net: NetName=PA1 Pin=U1-26
+Removed Pin From Net: NetName=PA2 Pin=U1-27
+Removed Pin From Net: NetName=PA3 Pin=U1-28
+Removed Pin From Net: NetName=PA4 Pin=U1-29
+Removed Pin From Net: NetName=PA5 Pin=U1-30
+Removed Pin From Net: NetName=PA6 Pin=U1-31
+Removed Pin From Net: NetName=PA7 Pin=U1-32
+Removed Pin From Net: NetName=VCC Pin=U1-38
+Removed Pin From Net: NetName=GND Pin=U1-40
+Removed Pin From Net: NetName=NetU1_1 Pin=U2-1
+Removed Pin From Net: NetName=NetU1_2 Pin=U2-2
+Removed Pin From Net: NetName=NetU1_3 Pin=U2-3
+Removed Pin From Net: NetName=NetU1_4 Pin=U2-4
+Removed Pin From Net: NetName=NetU1_5 Pin=U2-5
+Removed Pin From Net: NetName=NetU1_25 Pin=U3-16
+Removed Pin From Net: NetName=NetU1_24 Pin=U3-17
+Removed Pin From Net: NetName=NetU1_23 Pin=U3-18
+Removed Pin From Net: NetName=NetU1_22 Pin=U3-19
+Removed Pin From Net: NetName=NetU1_21 Pin=U3-20
+Change Component Comment : Designator=U1 Old Comment=STM32F103C8 New Comment=STM32F103C8T6最小系统板
+Added Pin To Net: NetName=PA1 Pin=U1-6
+Added Pin To Net: NetName=PA2 Pin=U1-7
+Added Pin To Net: NetName=PA3 Pin=U1-8
+Added Pin To Net: NetName=PA4 Pin=U1-9
+Added Pin To Net: NetName=PA5 Pin=U1-10
+Added Pin To Net: NetName=PA6 Pin=U1-11
+Added Pin To Net: NetName=PA7 Pin=U1-12
+Added Pin To Net: NetName=VCC Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=RXD Pin=U1-26
+Added Pin To Net: NetName=TXD Pin=U1-27
+Added Pin To Net: NetName=PB4 Pin=U1-32
+Added Pin To Net: NetName=PB5 Pin=U1-33
+Added Pin To Net: NetName=PB6 Pin=U1-34
+Added Pin To Net: NetName=PB7 Pin=U1-35
+Added Pin To Net: NetName=PB8 Pin=U1-36
+Added Pin To Net: NetName=PB9 Pin=U1-37
+Added Pin To Net: NetName=5V Pin=U1-38
+Added Pin To Net: NetName=VCC Pin=U1-40
+Added Pin To Net: NetName=NetU1_21 Pin=U2-1
+Added Pin To Net: NetName=NetU1_22 Pin=U2-2
+Added Pin To Net: NetName=NetU1_23 Pin=U2-3
+Added Pin To Net: NetName=NetU1_24 Pin=U2-4
+Added Pin To Net: NetName=NetU1_25 Pin=U2-5
+Added Pin To Net: NetName=NetU1_5 Pin=U3-16
+Added Pin To Net: NetName=NetU1_4 Pin=U3-17
+Added Pin To Net: NetName=NetU1_3 Pin=U3-18
+Added Pin To Net: NetName=NetU1_2 Pin=U3-19
+Added Pin To Net: NetName=NetU1_1 Pin=U3-20
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=U3-8
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=U3-7
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetU1_15 Pin=U3-6
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Pin To Net: NetName=NetU1_16 Pin=U3-5
+Added Net: Name=NetU1_16
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Pin To Net: NetName=NetU1_17 Pin=U3-4
+Added Net: Name=NetU1_17
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Pin To Net: NetName=NetU1_28 Pin=U2-8
+Added Net: Name=NetU1_28
+Added Pin To Net: NetName=NetU1_29 Pin=U1-29
+Added Pin To Net: NetName=NetU1_29 Pin=U2-9
+Added Net: Name=NetU1_29
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Pin To Net: NetName=NetU1_30 Pin=U2-10
+Added Net: Name=NetU1_30
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Pin To Net: NetName=NetU1_31 Pin=U2-11
+Added Net: Name=NetU1_31
+Added Member To Class: ClassName=U_主控 Member=Component U1 STM32F103C8T6最小系统板
+Added Room: Name=U_主控
+Added Room: Name=U_控制

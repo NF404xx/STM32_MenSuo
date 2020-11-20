@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=USB1-1
+Removed Pin From Net: NetName=5V Pin=USB1-6
+Change Net Name : Old Net Name=NetJP2_10 New Net Name=5V
+Added Room: Name=U_Ö÷¿Ø
+Added Room: Name=U_¿ØÖÆ

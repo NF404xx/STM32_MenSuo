@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=3.3V NewDesignator=1
+Change Component Designator: OldDesignator=5V NewDesignator=2
+Change Component Designator: OldDesignator=5V NewDesignator=J1
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=串 NewDesignator=CH1
+Added Component: Designator=D1(DO-35)
+Change Net Name : Old Net Name=NetU1_1 New Net Name=NetU2_20
+Change Net Name : Old Net Name=NetU1_2 New Net Name=NetU2_19
+Change Net Name : Old Net Name=NetU1_3 New Net Name=NetU2_18
+Change Net Name : Old Net Name=NetU1_4 New Net Name=NetU2_17
+Change Net Name : Old Net Name=NetU1_5 New Net Name=NetU2_16
+Change Net Name : Old Net Name=NetU1_13 New Net Name=NetU2_8
+Change Net Name : Old Net Name=NetU1_14 New Net Name=NetU2_7
+Change Net Name : Old Net Name=NetU1_15 New Net Name=NetU2_6
+Change Net Name : Old Net Name=NetU1_16 New Net Name=NetU2_5
+Change Net Name : Old Net Name=NetU1_17 New Net Name=NetU2_4
+Change Net Name : Old Net Name=NetU1_21 New Net Name=NetU1_1
+Change Net Name : Old Net Name=NetU1_22 New Net Name=NetU1_2
+Change Net Name : Old Net Name=NetU1_23 New Net Name=NetU1_3
+Change Net Name : Old Net Name=NetU1_24 New Net Name=NetU1_4
+Change Net Name : Old Net Name=NetU1_25 New Net Name=NetU1_5
+Change Net Name : Old Net Name=NetU1_28 New Net Name=NetU1_8
+Change Net Name : Old Net Name=NetU1_29 New Net Name=NetU1_9
+Change Net Name : Old Net Name=NetU1_30 New Net Name=NetU1_10
+Change Net Name : Old Net Name=NetU1_31 New Net Name=NetU1_11
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_1 Pin=U4-5
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=U_主控 Member=Component 2 5V电源
+Added Member To Class: ClassName=U_主控 Member=Component D1 1N4148
+Added Room: Name=U_主控
+Added Room: Name=U_控制

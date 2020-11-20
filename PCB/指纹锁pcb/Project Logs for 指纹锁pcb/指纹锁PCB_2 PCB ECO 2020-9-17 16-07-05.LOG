@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC Pin=3.3V -1
+Removed Pin From Net: NetName=GND Pin=3.3V -2
+Removed Pin From Net: NetName=VCC Pin=3.3V -3
+Removed Pin From Net: NetName=GND Pin=3.3V -4
+Removed Pin From Net: NetName=VCC Pin=3.3V -5
+Removed Pin From Net: NetName=GND Pin=3.3V -6
+Removed Pin From Net: NetName=5V Pin=5V-1
+Removed Pin From Net: NetName=GND Pin=5V-2
+Removed Pin From Net: NetName=5V Pin=5V-3
+Removed Pin From Net: NetName=GND Pin=5V-4
+Removed Pin From Net: NetName=5V Pin=5V-5
+Removed Pin From Net: NetName=GND Pin=5V-6
+Removed Member From Class: ClassName=U_主控 Member=3.3V 
+Removed Member From Class: ClassName=U_主控 Member=5V
+Added Room: Name=U_主控
+Added Room: Name=U_控制

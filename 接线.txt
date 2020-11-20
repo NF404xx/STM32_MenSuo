@@ -1,0 +1,14 @@
+SDA PA7  OLED
+SCL PA5
+
+AS608  PDF PA123 6(SW)
+双
+
+CH304 A9,10
+
+PB5 PWM
+
+PA4 BEEP负极
+
+PB1 按键开启
+
